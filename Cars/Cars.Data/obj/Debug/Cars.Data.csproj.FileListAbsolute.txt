@@ -4,3 +4,9 @@ c:\Users\student\documents\visual studio 2015\Projects\Cars\Cars.Data\obj\Debug\
 c:\Users\student\documents\visual studio 2015\Projects\Cars\Cars.Data\bin\Debug\Cars.Data.dll.config
 c:\Users\student\documents\visual studio 2015\Projects\Cars\Cars.Data\bin\Debug\Cars.Data.dll
 c:\Users\student\documents\visual studio 2015\Projects\Cars\Cars.Data\obj\Debug\Cars.Data.dll
+C:\Users\student\Source\Repos\hseseminar\Cars\Cars.Data\bin\Debug\Cars.Data.dll.config
+C:\Users\student\Source\Repos\hseseminar\Cars\Cars.Data\bin\Debug\Cars.Data.dll
+C:\Users\student\Source\Repos\hseseminar\Cars\Cars.Data\bin\Debug\Cars.Data.pdb
+C:\Users\student\Source\Repos\hseseminar\Cars\Cars.Data\obj\Debug\Cars.Data.csprojResolveAssemblyReference.cache
+C:\Users\student\Source\Repos\hseseminar\Cars\Cars.Data\obj\Debug\Cars.Data.dll
+C:\Users\student\Source\Repos\hseseminar\Cars\Cars.Data\obj\Debug\Cars.Data.pdb
