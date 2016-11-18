@@ -1,0 +1,6 @@
+c:\Users\student\documents\visual studio 2015\Projects\Cars\Cars.Data\bin\Debug\Cars.Data.pdb
+c:\Users\student\documents\visual studio 2015\Projects\Cars\Cars.Data\obj\Debug\Cars.Data.csprojResolveAssemblyReference.cache
+c:\Users\student\documents\visual studio 2015\Projects\Cars\Cars.Data\obj\Debug\Cars.Data.pdb
+c:\Users\student\documents\visual studio 2015\Projects\Cars\Cars.Data\bin\Debug\Cars.Data.dll.config
+c:\Users\student\documents\visual studio 2015\Projects\Cars\Cars.Data\bin\Debug\Cars.Data.dll
+c:\Users\student\documents\visual studio 2015\Projects\Cars\Cars.Data\obj\Debug\Cars.Data.dll
